@@ -1,3 +1,13 @@
+# Proyecto AutoDRIVE — SLAM + LPA* + B-Spline
+
+La documentación completa del proyecto de mapeo y planificación global se encuentra aquí:
+
+➡️ **[Ver proyecto AutoDRIVE](src/path_planning/README.md)**
+
+🎥 **Video demostrativo:** PENDIENTE - PEGAR ENLACE DE YOUTUBE
+
+---
+
 # F1TENTH Simulator for Autonomous Vehicle Competitions
 The F1TENTH simulator for ROS 2 is a simulation environment designed to test control, navigation, and planning algorithms on a 1/10 scale autonomous vehicle.
 
