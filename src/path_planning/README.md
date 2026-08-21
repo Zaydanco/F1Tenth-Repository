@@ -17,7 +17,7 @@ El objetivo del proyecto es realizar el flujo completo:
 
 ## 🎥 Video demostrativo
 
-**YouTube:** `PENDIENTE - PEGAR ENLACE AQUÍ`
+**YouTube:** https://youtu.be/L63VlOEhgmk
 
 El video demostrativo evidencia:
 
