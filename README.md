@@ -4,7 +4,7 @@ La documentación completa del proyecto de mapeo y planificación global se encu
 
 ➡️ **[Ver proyecto AutoDRIVE](src/path_planning/README.md)**
 
-🎥 **Video demostrativo:** PENDIENTE - PEGAR ENLACE DE YOUTUBE
+🎥 **Video demostrativo:** https://youtu.be/L63VlOEhgmk
 
 ---
 
